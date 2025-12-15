@@ -43,8 +43,8 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --minify
 
 ## Screenshot
 
-![Desktop View](screenshots/desktop.png)
-![Mobile View](screenshots/mobile.png)
+![Desktop View](src/assets/screenshots/desktop.png)
+![Mobile View](src/assets/screenshots/mobile.jpeg)
 
 ## Author
 
