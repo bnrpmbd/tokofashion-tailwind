@@ -32,6 +32,7 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --minify
 ## Fitur
 
 - Responsive design (Mobile, Tablet, Desktop)
+- Dark mode support
 - Top navigation bar
 - Navbar dengan dropdown menu
 - Hero section
@@ -43,8 +44,17 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --minify
 
 ## Screenshot
 
-![Desktop View](src/assets/screenshots/desktop.png)
-![Mobile View](src/assets/screenshots/mobile.jpeg)
+### Light Mode
+
+| Desktop | Tablet | Mobile |
+|---------|--------|--------|
+| ![Desktop Light](src/assets/screenshots/desktop.png) | ![Tablet Light](src/assets/screenshots/tablet.jpeg) | ![Mobile Light](src/assets/screenshots/mobile.jpeg) |
+
+### Dark Mode
+
+| Desktop | Tablet | Mobile |
+|---------|--------|--------|
+| ![Desktop Dark](src/assets/screenshots/desktop-dark.png) | ![Tablet Dark](src/assets/screenshots/tablet-dark.jpeg) | ![Mobile Dark](src/assets/screenshots/mobile-dark.jpeg) |
 
 ## Author
 

@@ -2,12 +2,22 @@
 
 @theme {
   --font-sans: 'Satoshi', sans-serif;
+
+  /* Light Mode */
   --color-primary1: #003e29;
   --color-primary2: #e4bba1;
   --color-primary3: #d9d9d9;
   --color-borderColor: #787878;
   --color-bgColor: #ededed;
   --color-bgGreen: #023423;
+
+  /* Dark Mode */
+  --color-primary1-dark: #10b981;
+  --color-primary2-dark: #fbbf24;
+  --color-primary3-dark: #4b5563;
+  --color-borderColor-dark: #6b7280;
+  --color-bgColor-dark: #1f2937;
+  --color-bgGreen-dark: #065f46;
 }
 
 @font-face {
